@@ -22,3 +22,8 @@ I can break my piggy bank and get back the number or coins that I had put in
 | Piggy_Bank | add_coins | |
 |  | shake_piggy_bank | if coins > 0 "cling"|
 |  | break_piggy_bank | return coin_count |
+
+## Done
+* I can put coins in my piggy bank
+* I can shake it, and it will “cling” if there is money in it
+I can break my piggy bank and get back the number or coins that I had put in
